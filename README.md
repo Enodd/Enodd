@@ -4,6 +4,24 @@ I’m 22 years old student living in Poland, that got into front-end development
 
 Currently I'm studing Computer Science at Silesian University.    
 
+## Proficient with
+[![js](https://skillicons.dev/icons?i=js)](js)
+[![ts](https://skillicons.dev/icons?i=ts)](ts)
+[![html](https://skillicons.dev/icons?i=html)](html)
+[![css](https://skillicons.dev/icons?i=css)](css)
+[![react](https://skillicons.dev/icons?i=react)](react)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](nextjs)
+[![sass](https://skillicons.dev/icons?i=sass)](sass)
+[![tailwind](https://skillicons.dev/icons?i=tailwind)](tailwind)
+## Currently learning 
+[![laravel](https://skillicons.dev/icons?i=laravel)](laravel)
+[![postgres](https://skillicons.dev/icons?i=postgres)](postgres)
+[![docker](https://skillicons.dev/icons?i=docker)](docker)
+[![express](https://skillicons.dev/icons?i=express)](express)
+
+## Tools I use
+[![vscode](https://skillicons.dev/icons?i=vscode)](vscode)
+[![neovim](https://skillicons.dev/icons?i=neovim)](neovim)
 <!---
 Foxnacity/Foxnacity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
