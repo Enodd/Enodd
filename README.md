@@ -22,6 +22,7 @@ Currently I'm studing Computer Science at Silesian University.
 ## Tools I use
 [![vscode](https://skillicons.dev/icons?i=vscode)](vscode)
 [![neovim](https://skillicons.dev/icons?i=neovim)](neovim)
+[![postman](https://skillicons.dev/icons?i=postman)](postman)
 <!---
 Foxnacity/Foxnacity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
